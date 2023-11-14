@@ -8,7 +8,6 @@ body {
     background-color: #d9dcd6;
     min-width: 320px;
 }
-/* header  */
 
 .header {
     padding: 20px;
@@ -52,7 +51,6 @@ a {
 p {
     font-size: 16px;
 }
-/* main pic */
 
 .hero {
     height: 800px;
@@ -141,6 +139,10 @@ p {
     border-bottom-left-radius: 50px;
 }
 
+/* .search-engine-optimization img {
+    max-height: 200px;
+    border-bottom-left-radius: 50px;
+} */
 .search-engine-optimization img {
     max-height: 200px;
     border-bottom-left-radius: 50px;
