@@ -1,12 +1,3 @@
-<!-- Homework week1 due 13/Nov -->
-<!-- requirements: 10 commits to github
-working with somebody link to their github / working in branch??? -->
-<!-- readme content:
-step-by-step / how to get the developement environment running
-usage
-write instruction and examples for use
-add screenshots to assets library / use relative filepath -->
-
 # homeseo-code-refactor
 
 # Table of content
@@ -23,17 +14,18 @@ add screenshots to assets library / use relative filepath -->
 # Overview
 This is the solution of the first week challange. In this challange I had to make at least 10 commits to github, change the tags in html, added comments to the code, checked accessability and SEO, made css more synoptic.
 
-
 ## Screenshots
+homeseo-code-refactor screen shot ![alt text](./assets/images/homeseosite-screenshot-1.png)
 
 ### Links
 homeseo-code-refactor on github[https://github.com/hszilvi/homeseo-code-refactor]
-live link[]
+live link[https://hszilvi.github.io/homeseo-code-refactor/]
 
 ## My_process
 I used the given starter code and worked with HTML and CSS. I used gitBash/SSH key to clone the starter package from the bootcamp gitLab site. 
 I used gitBash to commit all the changes I made on the project using git a. / git commit -m '' / and git push commands. 
 I used the recommended links to understand HTML tags and attributes. 
+I wrote the readme.md with the relative path to screen shot and links and other expected contents. 
 
 ### Built_with
 HTML, CSS
