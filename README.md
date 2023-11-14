@@ -23,6 +23,7 @@ add screenshots to assets library / use relative filepath -->
 # Overview
 This is the solution of the first week challange. In this challange I had to make at least 10 commits to github, change the tags in html, added comments to the code, checked accessability and SEO, made css more synoptic.
 
+
 ## Screenshots
 
 ### Links
