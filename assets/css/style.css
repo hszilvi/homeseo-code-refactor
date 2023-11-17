@@ -18,6 +18,7 @@ body {
 }
 
 .header h1 {
+    /* use display: inline-block it allows to set width and height if needed */
     display: inline-block;
     font-size: 48px;
 }
@@ -26,6 +27,7 @@ body {
     color: #d9dcd6;
 }
 
+/* nav bar floated right */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -43,15 +45,17 @@ body {
     margin-left: 25px;
 }
 
+/* effect all a tags in html */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* effect all p tags in html */
 p {
     font-size: 16px;
 }
-
+/* this is the main pic on the site */
 .hero {
     height: 800px;
     width: 100%;
@@ -62,6 +66,7 @@ p {
     border-bottom-left-radius: 50px;
 }
 
+/* general classes can be used on different tags! */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -83,12 +88,14 @@ p {
 .benefits {
     margin-right: 20px;
     padding: 20px;
+    /* this not allows the element to float on both siedes. It also indicates that no other element takes up space on the left and right side */
     clear: both;
     float: right;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    /* just add some border for fun for this practice */
     border-bottom-left-radius: 50px;
 }
 
